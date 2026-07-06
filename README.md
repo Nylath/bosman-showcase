@@ -8,13 +8,6 @@ Bosman is a full-stack application for sailing schools. Participants prepare for
 
 The source code of **Bosman** is stored in a private repository. Recruiters are welcome to contact me to request access. I can also present the project, explain its architecture and discuss my implementation decisions during an interview.
 
-## Live demo
-
-**Application:** [https://bosman.up.railway.app](https://bosman.up.railway.app)  
-**Participant access code:** `BOS-E69P-PJYL`
-
-Administrator credentials are intentionally not published.
-
 ## Screenshots
 
 <img width="2001" height="1201" alt="image" src="https://github.com/user-attachments/assets/61f78e09-1796-44c1-9fa6-b18569c3230f" />
